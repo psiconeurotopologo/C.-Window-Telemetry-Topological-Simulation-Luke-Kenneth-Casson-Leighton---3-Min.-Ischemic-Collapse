@@ -1,0 +1,2 @@
+# C.-Window-Telemetry-Topological-Simulation-Luke-Kenneth-Casson-Leighton---3-Min.-Ischemic-Collapse
+This repository contains the isolated 3-minute critical window of clinical telemetry (EEG/ECG) from patient Luke Kenneth Casson Leighton during a severe ischemic collapse. Includes three independent runs of the SCDS engine demonstrating 99.4% consistency in detecting topological network failure. Released under CC BY-ND 4.0 for research purposes.
